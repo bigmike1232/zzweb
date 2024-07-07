@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Shop",
+  "scripts": {
+    "start": "npx http-server -o"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
